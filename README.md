@@ -1,5 +1,5 @@
 # first-git-repo
 
-'''java
+```java
   public class A{}
-'''
+```
